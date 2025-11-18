@@ -73,9 +73,13 @@ Operating systems projects and low-level programming.
 
 ### GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francescacraievich&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francescacraievich&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francescacraievich&layout=compact&hide_border=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescacraievich&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top Languages" />
+</p>
 
 ---
 
