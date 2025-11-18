@@ -71,14 +71,12 @@ Operating systems projects and low-level programming.
 
 ---
 
-### GitHub Statistics
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francescacraievich&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescacraievich&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top Languages" />
+  <img src="https://img.shields.io/github/commit-activity/m/francescacraievich/cybersecurity?style=flat-square&label=Cybersecurity%20Commits" alt="Cybersecurity Commits" />
+  <img src="https://img.shields.io/github/commit-activity/m/francescacraievich/cyber_labs?style=flat-square&label=Cyber%20Labs%20Commits" alt="Cyber Labs Commits" />
+  <img src="https://img.shields.io/github/last-commit/francescacraievich/advanced-internet-technologies?style=flat-square&label=Last%20Active" alt="Last Active" />
 </p>
 
 ---
