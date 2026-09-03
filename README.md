@@ -1,64 +1,67 @@
 # Hi, I'm Francesca Craievich
 
-## Cybersecurity Enthusiast | Robotics Engineer | Computer Engineering Master's Student
+## Cybersecurity & Robotics | Computer Engineering Master's Student
 
-Welcome to my GitHub! I'm a passionate **Cybersecurity** practitioner and **Robotics Engineer** currently pursuing my Master's in Computer Engineering at the University of Trieste.
+Welcome to my GitHub! I'm a **Cybersecurity** practitioner with a background in **Robotics Engineering**, currently completing my Master's in Computer Engineering at the University of Trieste.
 
 ---
 
 ### About Me
 
-- **Cybersecurity Focus**: Security audits, incident response, SIEM simulation, penetration testing, and CTF challenges
-- **Current Role**: Robotics Engineer working with Isaac Sim, RViz, MOLA SLAM, ROS, and LLMs
+- **Cybersecurity Focus**: Penetration testing (web, mobile, infrastructure), vulnerability assessment, security auditing
+- **Robotics & AI Background**: Isaac Sim, ROS, MOLA SLAM, LLMs
 - **Education**: Master's in Computer Engineering @ University of Trieste
-- **Currently Learning**: Advanced security practices, AI integration in robotics, and autonomous systems
+- **Thesis**: Multi-Objective Optimization of Stealthy LiDAR Adversarial Attacks against SLAM in Quadruped Robots using NSGA-III
 
 ---
 
 ### Technical Skills
 
-#### Programming Languages & Frameworks
+#### Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-2C2D72?style=for-the-badge&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+
+#### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### Cybersecurity Expertise
-- **Security Auditing**: NIST frameworks, GDPR compliance, security assessments, vulnerability analysis
-- **Incident Response**: Digital forensics, threat detection, incident handling procedures
-- **SIEM & Monitoring**: Security information and event management, log analysis, threat intelligence
-- **Penetration Testing**: Network scanning, vulnerability exploitation, security testing
-- **CTF Platforms**: TryHackMe, HackTheBox, cybersecurity challenges
-- **Standards & Compliance**: ISO 27001, NIST Cybersecurity Framework, GDPR
-
-#### Robotics & AI Technologies
-- **ROS** (Robot Operating System)
-- **Isaac Sim** - NVIDIA robotics simulation platform
-- **RViz** - 3D visualization for robotics
-- **MOLA SLAM** - Simultaneous Localization and Mapping
-- **LLMs** - Large Language Models integration in autonomous systems
+#### Domains
+- **Offensive Security**: SQL Injection, XSS, ARP Cache Poisoning, SSLStrip, AiTM attacks, SAST/SCA
+- **Standards & Compliance**: OWASP, NIST, ISO 27001, GDPR
+- **Robotics & AI**: ROS, Isaac Sim, MOLA SLAM, NSGA-III, PointNet, formal verification (ERAN, α,β-CROWN)
 
 ---
 
 ### Featured Repositories
 
-#### [Cybersecurity](https://github.com/francescacraievich/cybersecurity)
-Comprehensive cybersecurity portfolio including security audits, incident response procedures, CTF writeups, and penetration testing labs.
-
 #### [Cyber Labs](https://github.com/francescacraievich/cyber_labs)
-Hands-on cybersecurity laboratory exercises and practical security implementations.
+Cybersecurity lab reports: EPSS vulnerability scoring, XSS, SQL Injection, SSLStrip, ARP Cache Poisoning, SAST — with Burp Suite analysis, Scapy scripts, and code review.
+
+#### [MOLA Adversarial NSGA-III](https://github.com/francescacraievich/mola-adversarial-nsga3)
+Master's thesis: multi-objective adversarial attacks on LiDAR SLAM using NSGA-III. Achieved +269% SLAM degradation at 4.6cm perturbation.
+
+#### [Cybersecurity Portfolio](https://github.com/francescacraievich/cybersecurity)
+Security audits, incident response procedures, CTF writeups, and penetration testing exercises.
 
 #### [Advanced Internet Technologies](https://github.com/francescacraievich/advanced-internet-technologies)
-Advanced networking and internet technologies projects.
+Networking and internet technologies projects.
 
-#### [Mathematical Optimisation](https://github.com/francescacraievich/mathematical-optimisation)
-Optimization algorithms and mathematical modeling projects.
+---
 
-#### [Sistemi Operativi](https://github.com/francescacraievich/sistemi-operativi)
-Operating systems projects and low-level programming.
+### Current Focus
+
+**Learning**: Advanced Cybersecurity, AI/ML Security, Robotics Security
+**Working On**: SLAM algorithms, ROS integration, LLM-powered robotics
+**Interests**: Security Research, CTF Challenges, Autonomous Systems
 
 ---
 
@@ -80,14 +83,6 @@ Operating systems projects and low-level programming.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescacraievich&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top Languages" />
 </p>
-
----
-
-### Current Focus
-
-**Learning**: Advanced Cybersecurity, AI/ML Security, Robotics Security
-**Working On**: SLAM algorithms, ROS integration, LLM-powered robotics
-**Interests**: Security Research, CTF Challenges, Autonomous Systems
 
 ---
 
