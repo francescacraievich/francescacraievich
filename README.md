@@ -81,7 +81,6 @@ Networking and internet technologies projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francescacraievich&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=francescacraievich&theme=react-dark&hide_border=true)](https://github.com/francescacraievich)
 ---
 
 From [francescacraievich](https://github.com/francescacraievich)
