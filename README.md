@@ -59,9 +59,9 @@ Networking and internet technologies projects.
 
 ### Current Focus
 
-**Learning**: Advanced Cybersecurity, AI/ML Security, Robotics Security
-**Working On**: SLAM algorithms, ROS integration, LLM-powered robotics
-**Interests**: Security Research, CTF Challenges, Autonomous Systems
+- **Learning**: Advanced Cybersecurity, AI/ML Security, Robotics Security
+- **Working On**: SLAM algorithms, ROS integration, LLM-powered robotics
+- **Interests**: Security Research, CTF Challenges, Autonomous Systems
 
 ---
 
@@ -80,9 +80,7 @@ Networking and internet technologies projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francescacraievich&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescacraievich&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top Languages" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Penetration+Tester;Cybersecurity+Enthusiast;Master's+Student)](https://git.io/typing-svg)
 
 ---
 
