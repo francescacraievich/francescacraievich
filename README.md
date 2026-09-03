@@ -1,4 +1,5 @@
 # Hi, I'm Francesca Craievich
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Penetration+Tester;Cybersecurity+Enthusiast;Master's+Student)](https://git.io/typing-svg)
 
 ## Cybersecurity & Robotics | Computer Engineering Master's Student
 
@@ -80,8 +81,7 @@ Networking and internet technologies projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francescacraievich&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Penetration+Tester;Cybersecurity+Enthusiast;Master's+Student)](https://git.io/typing-svg)
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=francescacraievich&theme=react-dark&hide_border=true)](https://github.com/francescacraievich)
 ---
 
 From [francescacraievich](https://github.com/francescacraievich)
